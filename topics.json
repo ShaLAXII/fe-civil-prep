@@ -1,0 +1,86 @@
+[
+  {
+    "id": "math",
+    "name": "Mathematics & Statistics",
+    "range": "8–12",
+    "icon": "function-square"
+  },
+  {
+    "id": "ethics",
+    "name": "Ethics & Professional Practice",
+    "range": "4–6",
+    "icon": "scale"
+  },
+  {
+    "id": "econ",
+    "name": "Engineering Economics",
+    "range": "5–8",
+    "icon": "wallet"
+  },
+  {
+    "id": "statics",
+    "name": "Statics",
+    "range": "8–12",
+    "icon": "move"
+  },
+  {
+    "id": "dynamics",
+    "name": "Dynamics",
+    "range": "4–6",
+    "icon": "activity"
+  },
+  {
+    "id": "mom",
+    "name": "Mechanics of Materials",
+    "range": "7–11",
+    "icon": "layers"
+  },
+  {
+    "id": "materials",
+    "name": "Materials",
+    "range": "5–8",
+    "icon": "package"
+  },
+  {
+    "id": "fluids",
+    "name": "Fluid Mechanics",
+    "range": "6–9",
+    "icon": "droplets"
+  },
+  {
+    "id": "survey",
+    "name": "Surveying",
+    "range": "6–9",
+    "icon": "map"
+  },
+  {
+    "id": "water",
+    "name": "Water Resources & Environmental",
+    "range": "10–15",
+    "icon": "waves"
+  },
+  {
+    "id": "struct",
+    "name": "Structural Engineering",
+    "range": "10–15",
+    "icon": "building"
+  },
+  {
+    "id": "geo",
+    "name": "Geotechnical Engineering",
+    "range": "10–15",
+    "icon": "mountain"
+  },
+  {
+    "id": "transport",
+    "name": "Transportation Engineering",
+    "range": "9–14",
+    "icon": "route"
+  },
+  {
+    "id": "construct",
+    "name": "Construction Engineering",
+    "range": "8–12",
+    "icon": "hard-hat"
+  }
+]

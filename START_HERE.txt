@@ -1,0 +1,11 @@
+FE CIVIL PREP v2.0 — INDEPENDENT PRACTICE BANK
+
+672 included questions. No practice-book PDF, JSON, or account required.
+
+NEW: Create a public GitHub repository named fe-civil-prep (separate from NutriTrack), upload the extracted ZIP contents at root, commit, and enable Settings > Pages > main > /(root). Open the site in Safari on iPhone > Share > Add to Home Screen.
+
+UPDATE: Export your full backup from the existing FE app before editing the repository. Upload and replace the ZIP contents in the SAME fe-civil-prep GitHub repository, commit, and refresh the site. Keep the existing Home Screen app and do not clear its local data.
+
+Within the app: Practice questions for 10/20/40 untimed; Timed exams for 20 in 60 min, 40 in 120 min, or 110 in 320 min; Subjects; Progress; Review; Flashcards. Settings stores local backups and scores. Optional book import is NOT needed.
+
+Not affiliated with NCEES or PrepFE. These are original questions and parameter variations, not official test questions. Read README.md for details.

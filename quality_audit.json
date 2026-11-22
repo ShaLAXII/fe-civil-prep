@@ -1,0 +1,35 @@
+{
+  "baseline_questions": 3000,
+  "new_questions": 106,
+  "total_questions": 3106,
+  "new_by_topic": {
+    "math": 7,
+    "ethics": 7,
+    "econ": 7,
+    "statics": 9,
+    "dynamics": 6,
+    "mom": 6,
+    "materials": 8,
+    "fluids": 8,
+    "survey": 8,
+    "water": 7,
+    "struct": 8,
+    "geo": 9,
+    "transport": 7,
+    "construct": 9
+  },
+  "formats": {
+    "single": 84,
+    "multi": 8,
+    "numeric": 6,
+    "hotspot": 4,
+    "order": 4
+  },
+  "new_single_families": 42,
+  "new_with_handbook_page_verified": 83,
+  "new_not_directly_in_handbook": 23,
+  "legacy_numeric_key_option_consistency_checks": 2162,
+  "legacy_numeric_key_option_mismatches": 0,
+  "legacy_expert_reviewed": false,
+  "difficulty_benchmarked_to_official_ncees": false
+}

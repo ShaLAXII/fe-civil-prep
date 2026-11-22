@@ -1,0 +1,13 @@
+FE CIVIL PREP 4.0 — QUICK GITHUB UPDATE
+
+1) On your iPhone, open FE Civil Prep > Settings & backup > Export complete backup.
+2) Download and unzip FE_Civil_Prep_v4_GitHub_Update.zip on your PC.
+3) Open the EXISTING fe-civil-prep repository in GitHub Desktop.
+4) Replace app.js, questions.json, styles.css, sw.js and README.md with the files from the update ZIP.
+5) Commit and Push origin.
+6) After GitHub Pages deploys, refresh https://shalaxii.github.io/fe-civil-prep/ on iPhone Safari and restart the Home Screen app.
+7) Verify it displays 3,106 questions. Do not delete your app or clear website data.
+
+For a new install, use the FULL ZIP instead of the update ZIP.
+
+Limits: Official NCEES difficulty equivalence and the older 3,000 per-question handbook page numbers have NOT been independently validated. See README.md or the app's Exam Fidelity page.
